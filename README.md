@@ -1,6 +1,7 @@
-# Improving the Convergence Speed of Deep Networks with Biased Sampling
+## Improving the Convergence Speed of Deep Networks with Biased Sampling
 
-Abstract
+# Abstract
+
 Deep Neural Networks (DNNs) are usually trained using a stochastic gradient descent algorithm or its variants. 
 This involves the gradient being computed on small batches of samples. The decision of which samples will be selected is an important step in the training process, as it can greatly affect the DNN's performance.
 In this paper, we propose a novel method of sample selection based on replacing easy examples with difficult ones every epoch. 
