@@ -1,4 +1,4 @@
-# Improving the Convergence Speed of Deep Networks with Biased Sampling
+# Improving the Convergence Speed of Deep Neural Networks with Biased Sampling
 
 ## Abstract
 
